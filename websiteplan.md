@@ -31,7 +31,7 @@ Home, Cose Editor, HTML, CSS, Accessibility, Ethics, Validation, AI
 
 5. Accessibility Considerations
 - Every image will have the alt text
-- I will structure the headings with H1, H2, H3
+- I will structure the headings with H1, H2, H3. I will use H one on every page for the main title. For the main sections, I will use H2. For the smaller sections, I will use H3. This will help with organization.
 - I will use color combinations that meet contrast guidelines.
 
 6. File and Folder Plan
