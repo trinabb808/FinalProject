@@ -21,7 +21,7 @@ Using genererative artificial intelligence(such as ChatGPT), file name is ai.htm
 3. Planned Media & Assets
 - Images: Simple Images
 - Icons: I may use Icons.
-- Videos: I won't use any videos
+- Videos: I will use Videos from YouTube
 - Table of Lists: I will use a list for organization
 - Forms: I will use a contact form
 
